@@ -12,7 +12,7 @@ has_children: False  # Set to True if the page has sub-pages.
 maintainer:
   - name: Cole White  # PLACEHOLDER: Replace with actual maintainer's name.
     link: https://library.utoronto.ca/staff/cole-white # link is optional
-    student_staff:  
+student_staff:  
   - name: Cho Yiu Fung
 #   link: https://example.com/student-name
   - name: Rana Gahwagy
